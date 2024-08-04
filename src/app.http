@@ -1,0 +1,8 @@
+POST http://localhost:3000/api/users/signup
+Content-Type: application/json
+
+{
+  "username": "gowtham",
+  "password": "gowthambalaji2004",
+  "email": "gowtham@gmail.com"
+}
